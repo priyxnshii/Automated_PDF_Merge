@@ -25,10 +25,3 @@ Auto-PDF-Merger/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
-## Installation
-
-1. Clone the repository
-
-```bash
-git clone <your-repository-link>
